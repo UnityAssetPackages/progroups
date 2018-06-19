@@ -1,0 +1,8 @@
+{
+    "name": "com.uap.progroups",
+    "displayName": "ProGroups",
+    "version": "0.0.0",
+    "unity": "2018.1",
+    "description": "Organize your scene with groups and visibility toggles.",
+    "dependencies": { }
+}
